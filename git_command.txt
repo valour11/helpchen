@@ -1,0 +1,45 @@
+
+	
+	              list of 20 Git commands along with their functions:
+
+1. git init: Initializes/creates a new Git repository in the current directory.
+
+2. git clone: creates a Copy of a repository from a remote server(eg. github) to your local machine.
+
+3. git add: Adds file changes in the directory to the staging area ready for a commit.
+
+4. git congig: sets congiguration options for your git.
+
+5. git clean: removes all untracked files from the directorym different branches and merges them into one.
+
+7. git commit: Records changes to the repository.
+
+8. git status: Gives the current state of the working directory, showing which files are modified, staged, or untracked.
+
+9. git diff: Shows the differences between the working directory and the staging area.
+
+7. git log: Displays a chronological list of commits in the repository.
+
+8. git branch: Lists all branches in the repository.
+
+10. git checkout [branch name or commit hash]: Switches to the specified branch or commit.
+
+11. git merge: Integrates changes from the specified branch into the current branch.
+
+12. git pull: Fetches changes from a remote repository and merges them into the current branch.
+
+13. git push: Uploads local branch commits to a remote repository.
+
+14. git remote -v: Lists all remote repositories associated with the local repository.
+
+15. git revert: this is used to undo a commited snapshot.
+
+16. git reset [file(s)]: Removes changes from the staging area while keeping the modifications in the working directory.
+
+17. git checkout -- [file(s)]: Discards changes in the working directory to revert files to the state of the last commit.
+
+18. git stash: Temporarily shelves changes in the working directory, allowing you to switch branches without committing them.
+
+19. git tag: Marks a specific commit with a descriptive tag for easy reference.
+
+20. git rebase: lets you move branches around in order to avoid unneccesary merge commits.
